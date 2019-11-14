@@ -1,2 +1,3 @@
-#Oh this is fucking interesting
-This is my app!
+# Wow this is fucking interesting!!
+## hahaahhhhahah
+This is my app! :ghost::ghost:
