@@ -1,2 +1,2 @@
-#오 개신기
+#Oh this is fucking interesting
 #This is my app!
